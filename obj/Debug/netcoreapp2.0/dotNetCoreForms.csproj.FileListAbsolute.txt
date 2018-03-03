@@ -1,0 +1,10 @@
+C:\EstudosDotNetCore\dotNetCoreForms\bin\Debug\netcoreapp2.0\dotNetCoreForms.deps.json
+C:\EstudosDotNetCore\dotNetCoreForms\bin\Debug\netcoreapp2.0\dotNetCoreForms.runtimeconfig.json
+C:\EstudosDotNetCore\dotNetCoreForms\bin\Debug\netcoreapp2.0\dotNetCoreForms.runtimeconfig.dev.json
+C:\EstudosDotNetCore\dotNetCoreForms\bin\Debug\netcoreapp2.0\dotNetCoreForms.dll
+C:\EstudosDotNetCore\dotNetCoreForms\bin\Debug\netcoreapp2.0\dotNetCoreForms.pdb
+C:\EstudosDotNetCore\dotNetCoreForms\obj\Debug\netcoreapp2.0\dotNetCoreForms.csproj.CoreCompileInputs.cache
+C:\EstudosDotNetCore\dotNetCoreForms\obj\Debug\netcoreapp2.0\dotNetCoreForms.AssemblyInfoInputs.cache
+C:\EstudosDotNetCore\dotNetCoreForms\obj\Debug\netcoreapp2.0\dotNetCoreForms.AssemblyInfo.cs
+C:\EstudosDotNetCore\dotNetCoreForms\obj\Debug\netcoreapp2.0\dotNetCoreForms.dll
+C:\EstudosDotNetCore\dotNetCoreForms\obj\Debug\netcoreapp2.0\dotNetCoreForms.pdb
