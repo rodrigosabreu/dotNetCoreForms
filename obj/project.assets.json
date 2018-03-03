@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\EstudosDotNetCore\\dotNetCoreForms\\dotNetCoreForms\\dotNetCoreForms.csproj",
+      "projectUniqueName": "C:\\EstudosDotNetCore\\dotNetCoreForms\\dotNetCoreForms\\dotNetCoreForms.csproj",
       "projectName": "dotNetCoreForms",
-      "projectPath": "c:\\EstudosDotNetCore\\dotNetCoreForms\\dotNetCoreForms\\dotNetCoreForms.csproj",
+      "projectPath": "C:\\EstudosDotNetCore\\dotNetCoreForms\\dotNetCoreForms\\dotNetCoreForms.csproj",
       "packagesPath": "C:\\Users\\RABREU\\.nuget\\packages\\",
-      "outputPath": "c:\\EstudosDotNetCore\\dotNetCoreForms\\dotNetCoreForms\\obj\\",
+      "outputPath": "C:\\EstudosDotNetCore\\dotNetCoreForms\\dotNetCoreForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
