@@ -1,15 +1,26 @@
+@model dotNetCoreForms.Models.Product
 <br>
-<form action="/Product/Save" method="post">
+<!--<form action="/Product/Save" method="post">-->
+<form asp-controoler="Product" asp-action="Save" method="post">
 
     Id:
-    <input type="text" name="Id">
+    <!--<input type="text" name="Id">-->
+    <input asp-for="Id">
+    <span asp-validation-for="Id"></span>
     <br><br>
+
     Name:
-    <input type="text" name="Name">
+    <!--<input type="text" name="Name">-->
+    <input asp-for="Name">
+    <span asp-validation-for="Name"></span>
     <br><br>
+
     Preço:
-    <input type="text" name="Price">
+    <!--<input type="text" name="Price">-->
+    <input asp-for="Price">
+    <span asp-validation-for="Price"></span>
     <br><br>
+
     <button type="submit">Salvar</button>
     <br><br>
 
